@@ -21,9 +21,9 @@ between pump laser on and o↵ measurements for a given sample magnetization dir
 right panel of this diagnostic (not shown in figure) plots the sum of incident pulse energies of shots
 collected at each delay bin to show the amount of data that has been collected at each delay bin.
 
-## Running the Code
+## How the Code Was Run
 
-
+This code was run on specific computers that had access to data as it was being recorded and used the [psana](https://confluence.slac.stanford.edu/display/PSDMInternal/psana+modules) Python package for interfacing with LCLS data. A more detailed description is given [here](https://github.com/dhigley6/LCLS_XAS_online/blob/master/Copy%20of%20LQ27%20Shared%20Memory%20Notes.pdf).
 
 ## Reference
 
