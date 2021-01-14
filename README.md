@@ -15,9 +15,9 @@ recorded data.
 
 ![Time Delay Traces Plot](https://github.com/dhigley6/LCLS_XAS_online/blob/master/time_delay_traces.png)
 ^(from [1]): Online monitoring plots of X-ray absorption spectroscopy data. (a) shows the X-ray
-absorption of a magnetic Co/Pd multilayer sample at the Co L3 edge with di↵erent sample magnetization
-directions and the pump laser either on or o↵ for the four traces. (b) shows the di↵erence
-between pump laser on and o↵ measurements for a given sample magnetization direction. The far
+absorption of a magnetic Co/Pd multilayer sample at the Co L3 edge with different sample magnetization
+directions and the pump laser either on or off for the four traces. (b) shows the difference
+between pump laser on and off measurements for a given sample magnetization direction. The far
 right panel of this diagnostic (not shown in figure) plots the sum of incident pulse energies of shots
 collected at each delay bin to show the amount of data that has been collected at each delay bin.
 
